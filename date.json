@@ -1,0 +1,2012 @@
+[
+  {
+    "nome": "Animismo Primitivo",
+    "descricao": "Crença de que objetos inanimados possuem alma ou espírito.",
+    "origem": "Culturas indígenas e antigas sociedades humanas.",
+    "exemplos": [
+      "Crença em espíritos da natureza, como árvores e rios.",
+      "Rituais para apaziguar espíritos de objetos cotidianos."
+    ],
+    "periodo": "Pré-história até os dias atuais em algumas culturas indígenas.",
+    "deuses": [
+      "Espíritos da natureza",
+      "Ancestrais"
+    ],
+    "simbolos": [
+      "Totens",
+      "Amuletos"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Ofertas e sacrifícios para espíritos."
+    ],
+    "influencia": "Base para muitas religiões tradicionais e práticas espirituais ao redor do mundo.",
+    "importancia": "Fundamental para a compreensão das primeiras formas de religião e espiritualidade na história humana.",
+    "link": "https://www.britannica.com/topic/animism"
+  },
+  {
+    "nome": "Politeísmo",
+    "descricao": "Crença em múltiplos deuses ou divindades com diferentes funções e atributos.",
+    "origem": "Antigas civilizações como a Mesopotâmia, Egito, Grécia e Roma.",
+    "exemplos": [
+      "Mitologia grega com deuses como Zeus, Hera e Poseidon.",
+      "Mitologia egípcia com deuses como Rá, Ísis e Osíris."
+    ],
+    "periodo": "Desde a antiguidade até a era moderna em algumas culturas.",
+    "deuses": [
+      "Zeus",
+      "Hera",
+      "Rá",
+      "Ísis"
+    ],
+    "simbolos": [
+      "Templos",
+      "Estátuas de deuses"
+    ],
+    "praticas": [
+      "Sacrifícios animais.",
+      "Festivais religiosos em honra aos deuses."
+    ],
+    "influencia": "Influenciou a arte, literatura e cultura de muitas sociedades ao longo da história.",
+    "importancia": "Essencial para entender a diversidade religiosa e cultural das antigas civilizações.",
+    "link": "https://www.britannica.com/topic/polytheism"
+  },
+  {
+    "nome": "Monoteísmo",
+    "descricao": "Crença em um único Deus supremo e onipotente.",
+    "origem": "Desenvolvido em várias tradições religiosas, incluindo o judaísmo, cristianismo e islamismo.",
+    "exemplos": [
+      "Judaísmo com a crença em Yahweh.",
+      "Cristianismo com a crença em Deus e Jesus Cristo."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais.",
+    "deuses": [
+      "Yahweh",
+      "Deus"
+    ],
+    "simbolos": [
+      "Cruz",
+      "Estrela de Davi"
+    ],
+    "praticas": [
+      "Oração e adoração a um único Deus.",
+      "Observância de mandamentos e leis religiosas."
+    ],
+    "influencia": "Fundamental para a formação de grandes religiões mundiais e suas culturas associadas.",
+    "link": "https://www.britannica.com/topic/monotheism"
+  },
+  {
+    "nome": "Panteísmo",
+    "descricao": "Crença de que Deus é idêntico ao universo e à natureza.",
+    "origem": "Desenvolvido em várias tradições filosóficas e religiosas, incluindo o hinduísmo e algumas formas de espiritualidade moderna.",
+    "exemplos": [
+      "Hinduísmo com a crença em Brahman como a essência divina do universo.",
+      "Filosofias modernas que veem a natureza como sagrada."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais.",
+    "deuses": [
+      "Brahman"
+    ],
+    "simbolos": [
+      "Om",
+      "Mandala"
+    ],
+    "praticas": [
+      "Meditação e contemplação da natureza.",
+      "Rituais que honram a terra e o cosmos."
+    ],
+    "influencia": "Contribuiu para movimentos ecológicos e espirituais que valorizam a conexão com a natureza.",
+    "importancia": "Crucial para a compreensão de visões de mundo que enfatizam a unidade entre o divino e o natural.",
+    "link": "https://www.britannica.com/topic/pantheism"
+  },
+  {    "nome": "Ateísmo",
+    "descricao": "Ausência de crença em qualquer divindade ou ser supremo.",
+    "origem": "Desenvolvido como uma posição filosófica e crítica às religiões teístas.",
+    "exemplos": [
+      "Filosofia materialista que nega a existência de deuses.",
+      "Movimentos secularistas que promovem a separação entre religião e estado."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais.",
+    "deuses": [],
+    "simbolos": [
+      "Símbolo do átomo",
+      "Letra 'A' estilizada"
+    ],
+    "praticas": [
+      "Promoção do pensamento crítico e científico.",
+      "Defesa dos direitos humanos e da liberdade de expressão."
+    ],
+    "influencia": "Impactou debates sobre ciência, ética e política em sociedades modernas.",
+    "importancia": "Importante para a promoção do secularismo e da liberdade de crença nas sociedades contemporâneas.",
+    "link": "https://www.britannica.com/topic/atheism"
+  },
+  {    "nome": "Agnosticismo",
+    "descricao": "Posição filosófica que sustenta que a existência de deuses é desconhecida ou incognoscível.",
+    "origem": "Desenvolvido como uma resposta crítica tanto ao teísmo quanto ao ateísmo.",
+    "exemplos": [
+      "Filosofia que enfatiza a limitação do conhecimento humano sobre o divino.",
+      "Movimentos que promovem a dúvida e a investigação contínua sobre questões religiosas."
+    ],
+    "periodo": "Desde o século XIX até os dias atuais.",
+    "deuses": [],
+    "simbolos": [
+      "Símbolo do ponto de interrogação",
+      "Letra 'G' estilizada"
+    ],
+    "praticas": [
+      "Promoção do ceticismo saudável.",
+      "Incentivo à busca pelo conhecimento através da ciência e filosofia."
+    ],
+    "influencia": "Contribuiu para debates filosóficos sobre fé, conhecimento e a natureza da realidade.",
+    "importancia": "Relevante para a compreensão das limitações do conhecimento humano em relação às questões metafísicas.",
+    "link": "https://www.britannica.com/topic/agnosticism"
+  },
+  {    "nome": "Deísmo",
+    "descricao": "Crença em um Deus criador que não intervém no universo após sua criação.",
+    "origem": "Desenvolvido durante a Era da Razão e Iluminismo.",
+    "exemplos": [
+      "Filosofia que vê Deus como o criador do universo, mas rejeita revelações religiosas.",
+      "Movimentos que promovem a razão e a ciência como meios para entender o mundo."
+    ],
+    "periodo": "Século XVII até os dias atuais.",
+    "deuses": [
+      "Deus Criador"
+    ],
+    "simbolos": [
+      "Relógio de sol",
+      "Engrenagens"
+    ],
+    "praticas": [
+      "Valorização da razão e do pensamento crítico.",
+      "Rejeição de dogmas religiosos e rituais."
+    ],
+    "influencia": "Impactou o desenvolvimento do pensamento científico e filosófico na modernidade.",
+    "importancia": "Significativo para a promoção da liberdade de pensamento e a separação entre religião e ciência.",
+    "link": "https://www.britannica.com/topic/deism"
+  },
+  {
+    "nome": "Religiões Tradicionais Africanas",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas africanas.",
+    "origem": "Diversas culturas e etnias africanas.",
+    "exemplos": [
+      "Crença em ancestrais e espíritos da natureza.",
+      "Rituais de cura e adoração comunitária."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões da África.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Máscaras rituais",
+      "Totens"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Festivais comunitários."
+    ],
+    "influencia": "Influenciou religiões afro-brasileiras como o Candomblé e a Umbanda.",
+    "importancia": "Crucial para a preservação da identidade cultural e espiritual de diversas comunidades africanas.",
+    "link": "https://www.britannica.com/topic/African-religion"
+  },
+  {    "nome": "Religiões Indígenas Americanas",
+    "descricao": "Crenças e práticas espirituais dos povos indígenas das Américas.",
+    "origem": "Diversas tribos e culturas indígenas americanas.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de caça e colheita."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões das Américas.",
+    "deuses": [
+      "Espíritos da natureza",
+      "Ancestrais"
+    ],
+    "simbolos": [
+      "Totens",
+      "Penas"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Cerimônias de cura."
+    ],
+    "influencia": "Contribuiu para a diversidade cultural e espiritual das Américas.",
+    "importancia": "Essencial para a compreensão das tradições espirituais indígenas e sua relação com a natureza.",
+    "link": "https://www.britannica.com/topic/Native-American-religion"
+  },
+  {    "nome": "Religiões Tradicionais Asiáticas",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas asiáticas.",
+    "origem": "Diversas culturas e etnias asiáticas.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de meditação e adoração comunitária."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões da Ásia.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Estátuas rituais",
+      "Totens"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Festivais comunitários."
+    ],
+    "influencia": "Influenciou religiões asiáticas como o Shintoísmo e o Taoísmo.",
+    "importancia": "Crucial para a preservação da identidade cultural e espiritual de diversas comunidades asiáticas.",
+    "link": "https://www.britannica.com/topic/Asian-religion"
+  },
+  {    "nome": "Religiões Tradicionais Oceânicas",
+    "descricao": "Crenças e práticas espirituais dos povos indígenas da Oceania.",
+    "origem": "Diversas tribos e culturas indígenas oceânicas.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de pesca e colheita."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões da Oceania.",
+    "deuses": [
+      "Espíritos da natureza",
+      "Ancestrais"
+    ],
+    "simbolos": [
+      "Totens",
+      "Máscaras"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Cerimônias de cura."
+    ],
+    "influencia": "Contribuiu para a diversidade cultural e espiritual da Oceania.",
+    "importancia": "Essencial para a compreensão das tradições espirituais indígenas e sua relação com a natureza.",
+    "link": "https://www.britannica.com/topic/Oceanic-religion"
+  },
+  {    "nome": "Religiões Tradicionais Europeias",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas europeias.",
+    "origem": "Diversas culturas e etnias europeias.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de celebração das estações."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões da Europa.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Pedras rituais",
+      "Totens"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Festivais comunitários."
+    ],
+    "influencia": "Influenciou religiões europeias como o Druidismo e o Paganismo.",
+    "importancia": "Crucial para a preservação da identidade cultural e espiritual de diversas comunidades europeias.",
+    "link": "https://www.britannica.com/topic/European-religion"
+  },
+  {    "nome": "Religiões Tradicionais do Oriente Médio",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas do Oriente Médio.",
+    "origem": "Diversas culturas e etnias do Oriente Médio.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de adoração comunitária."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões do Oriente Médio.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Estátuas rituais",
+      "Totens"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Festivais comunitários."
+    ],
+    "influencia": "Influenciou religiões do Oriente Médio como o Zoroastrismo e o Mitraísmo.",
+    "importancia": "Crucial para a preservação da identidade cultural e espiritual de diversas comunidades do Oriente Médio.",
+    "link": "https://www.britannica.com/topic/Middle-Eastern-religion"
+  },
+  {    "nome": "Religiões Tradicionais da América Latina",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas da América Latina.",
+    "origem": "Diversas culturas e etnias da América Latina.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de celebração da colheita."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões da América Latina.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Máscaras rituais",
+      "Totens"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Festivais comunitários."
+    ],
+    "influencia": "Influenciou religiões latino-americanas como o Sincretismo Religioso.",
+    "importancia": "Crucial para a preservação da identidade cultural e espiritual de diversas comunidades latino-americanas.",
+    "link": "https://www.britannica.com/topic/Latin-American-religion"
+  },
+  {
+    "nome": "Religiões Tradicionais do Caribe",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas do Caribe.",
+    "origem": "Diversas culturas e etnias do Caribe.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de celebração da pesca."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões do Caribe.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Máscaras rituais",
+      "Totens"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Festivais comunitários."
+    ],
+    "influencia": "Influenciou religiões caribenhas como o Vodu e a Santeria.",
+    "importancia": "Crucial para a preservação da identidade cultural e espiritual de diversas comunidades caribenhas.",
+    "link": "https://www.britannica.com/topic/Caribbean-religion"
+  },
+  {
+    "nome": "Religiões Tradicionais do Ártico",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas do Ártico.",
+    "origem": "Diversas culturas e etnias do Ártico.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de caça e sobrevivência."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões do Ártico.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Totens",
+      "Máscaras"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Cerimônias de caça."
+    ],
+    "influencia": "Contribuiu para a diversidade cultural e espiritual do Ártico.",
+    "importancia": "Essencial para a compreensão das tradições espirituais indígenas e sua relação com o ambiente extremo.",
+    "link": "https://www.britannica.com/topic/Arctic-religion"
+  },
+  {
+    "nome": "Religiões Tradicionais da Sibéria",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas da Sibéria.",
+    "origem": "Diversas culturas e etnias da Sibéria.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de caça e sobrevivência."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões da Sibéria.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Totens",
+      "Máscaras"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Cerimônias de caça."
+    ],
+    "influencia": "Contribuiu para a diversidade cultural e espiritual da Sibéria.",
+    "importancia": "Essencial para a compreensão das tradições espirituais indígenas e sua relação com o ambiente extremo.",
+    "link": "https://www.britannica.com/topic/Siberian-religion"
+  },
+  {
+    "nome": "Religiões Tradicionais da Austrália",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas da Austrália.",
+    "origem": "Diversas culturas e etnias da Austrália.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de caça e sobrevivência."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões da Austrália.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Totens",
+      "Máscaras"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Cerimônias de caça."
+    ],
+    "influencia": "Contribuiu para a diversidade cultural e espiritual da Austrália.",
+    "importancia": "Essencial para a compreensão das tradições espirituais indígenas e sua relação com o ambiente.",
+    "link": "https://www.britannica.com/topic/Australian-Aboriginal-religion"
+  },
+  {
+    "nome": "Religiões Tradicionais da Nova Zelândia",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas da Nova Zelândia.",
+    "origem": "Diversas culturas e etnias da Nova Zelândia.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de caça e sobrevivência."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões da Nova Zelândia.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Totens",
+      "Máscaras"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Cerimônias de caça."
+    ],
+    "influencia": "Contribuiu para a diversidade cultural e espiritual da Nova Zelândia.",
+    "importancia": "Essencial para a compreensão das tradições espirituais indígenas e sua relação com o ambiente.",
+    "link": "https://www.britannica.com/topic/Maori-religion"
+  },
+  {    "nome": "Religiões Tradicionais do Sudeste Asiático",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas do Sudeste Asiático.",
+    "origem": "Diversas culturas e etnias do Sudeste Asiático.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de caça e sobrevivência."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões do Sudeste Asiático.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Totens",
+      "Máscaras"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Cerimônias de caça."
+    ],
+    "influencia": "Contribuiu para a diversidade cultural e espiritual do Sudeste Asiático.",
+    "importancia": "Essencial para a compreensão das tradições espirituais indígenas e sua relação com o ambiente.",
+    "link": "https://www.britannica.com/topic/Southeast-Asian-religion"
+  },
+  {    "nome": "Religiões Tradicionais da Índia",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas da Índia.",
+    "origem": "Diversas culturas e etnias da Índia.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de meditação e adoração comunitária."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões da Índia.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Estátuas rituais",
+      "Totens"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Festivais comunitários."
+    ],
+    "influencia": "Influenciou religiões indianas como o Hinduísmo e o Jainismo.",
+    "importancia": "Crucial para a preservação da identidade cultural e espiritual de diversas comunidades indianas.",
+    "link": "https://www.britannica.com/topic/Indian-religion"
+  },
+  {    "nome": "Religiões Tradicionais do Tibete",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas do Tibete.",
+    "origem": "Diversas culturas e etnias do Tibete.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de meditação e adoração comunitária."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões do Tibete.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Estátuas rituais",
+      "Totens"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Festivais comunitários."
+    ],
+    "influencia": "Influenciou religiões tibetanas como o Budismo Tibetano e o Bön.",
+    "importancia": "Crucial para a preservação da identidade cultural e espiritual de diversas comunidades tibetanas.",
+    "link": "https://www.britannica.com/topic/Tibetan-religion"
+  },
+  {    "nome": "Religiões Tradicionais da Mongólia",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas da Mongólia.",
+    "origem": "Diversas culturas e etnias da Mongólia.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de caça e sobrevivência."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões da Mongólia.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Totens",
+      "Máscaras"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Cerimônias de caça."
+    ],
+    "influencia": "Contribuiu para a diversidade cultural e espiritual da Mongólia.",
+    "importancia": "Essencial para a compreensão das tradições espirituais indígenas e sua relação com o ambiente.",
+    "link": "https://www.britannica.com/topic/Mongolian-religion"
+  },
+  {    "nome": "Religiões Tradicionais do Norte da África",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas do Norte da África.",
+    "origem": "Diversas culturas e etnias do Norte da África.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de adoração comunitária."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões do Norte da África.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Estátuas rituais",
+      "Totens"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Festivais comunitários."
+    ],
+    "influencia": "Influenciou religiões do Norte da África como o Egípcia Antiga e o Berbere.",
+    "importancia": "Crucial para a preservação da identidade cultural e espiritual de diversas comunidades do Norte da África.",
+    "link": "https://www.britannica.com/topic/North-African-religion"
+  },
+  {    "nome": "Religiões Tradicionais do Sul da África",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas do Sul da África.",
+    "origem": "Diversas culturas e etnias do Sul da África.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de adoração comunitária."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões do Sul da África.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Estátuas rituais",
+      "Totens"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Festivais comunitários."
+    ],
+    "influencia": "Influenciou religiões do Sul da África como o Zuluísmo e o Xhosaísmo.",
+    "importancia": "Crucial para a preservação da identidade cultural e espiritual de diversas comunidades do Sul da África.",
+    "link": "https://www.britannica.com/topic/Southern-African-religion"
+  },
+  {    "nome": "Religiões Tradicionais do Oriente Médio Antigo",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas do Oriente Médio Antigo.",
+    "origem": "Diversas culturas e etnias do Oriente Médio Antigo.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de adoração comunitária."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões do Oriente Médio Antigo.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Estátuas rituais",
+      "Totens"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Festivais comunitários."
+    ],
+    "influencia": "Influenciou religiões do Oriente Médio Antigo como o Sumério e o Acádio.",
+    "importancia": "Crucial para a preservação da identidade cultural e espiritual de diversas comunidades do Oriente Médio Antigo.",
+    "link": "https://www.britannica.com/topic/Ancient-Middle-Eastern-religion"
+  },
+  {    "nome": "Religiões Tradicionais do Mediterrâneo",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas do Mediterrâneo.",
+    "origem": "Diversas culturas e etnias do Mediterrâneo.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de adoração comunitária."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões do Mediterrâneo.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Estátuas rituais",
+      "Totens"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Festivais comunitários."
+    ],
+    "influencia": "Influenciou religiões do Mediterrâneo como o Minoano e o Micênico.",
+    "importancia": "Crucial para a preservação da identidade cultural e espiritual de diversas comunidades do Mediterrâneo.",
+    "link": "https://www.britannica.com/topic/Mediterranean-religion"
+  },
+  {    "nome": "Religiões Tradicionais do Norte da Europa",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas do Norte da Europa.",
+    "origem": "Diversas culturas e etnias do Norte da Europa.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de celebração das estações."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões do Norte da Europa.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Pedras rituais",
+      "Totens"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Festivais comunitários."
+    ],
+    "influencia": "Influenciou religiões do Norte da Europa como o Nórdico Antigo e o Celtismo.",
+    "importancia": "Crucial para a preservação da identidade cultural e espiritual de diversas comunidades do Norte da Europa.",
+    "link": "https://www.britannica.com/topic/Northern-European-religion"
+  },
+  {    "nome": "Religiões Tradicionais do Sul da Europa",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas do Sul da Europa.",
+    "origem": "Diversas culturas e etnias do Sul da Europa.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de celebração das estações."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões do Sul da Europa.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Pedras rituais",
+      "Totens"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Festivais comunitários."
+    ],
+    "influencia": "Influenciou religiões do Sul da Europa como o Grego Antigo e o Romano Antigo.",
+    "importancia": "Crucial para a preservação da identidade cultural e espiritual de diversas comunidades do Sul da Europa.",
+    "link": "https://www.britannica.com/topic/Southern-European-religion"
+  },
+  {    "nome": "Religiões Tradicionais do Leste Europeu",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas do Leste Europeu.",
+    "origem": "Diversas culturas e etnias do Leste Europeu.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de celebração das estações."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões do Leste Europeu.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Pedras rituais",
+      "Totens"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Festivais comunitários."
+    ],
+    "influencia": "Influenciou religiões do Leste Europeu como o Eslavo Antigo e o Báltico Antigo.",
+    "importancia": "Crucial para a preservação da identidade cultural e espiritual de diversas comunidades do Leste Europeu.",
+    "link": "https://www.britannica.com/topic/Eastern-European-religion"
+  },
+  {    "nome": "Religiões Tradicionais do Oeste Europeu",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas do Oeste Europeu.",
+    "origem": "Diversas culturas e etnias do Oeste Europeu.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de celebração das estações."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões do Oeste Europeu.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Pedras rituais",
+      "Totens"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Festivais comunitários."
+    ],
+    "influencia": "Influenciou religiões do Oeste Europeu como o Franco Antigo e o Germânico Antigo.",
+    "importancia": "Crucial para a preservação da identidade cultural e espiritual de diversas comunidades do Oeste Europeu.",
+    "link": "https://www.britannica.com/topic/Western-European-religion"
+  },
+  {    "nome": "Religiões Tradicionais do Cáucaso",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas do Cáucaso.",
+    "origem": "Diversas culturas e etnias do Cáucaso.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de caça e sobrevivência."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões do Cáucaso.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Totens",
+      "Máscaras"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Cerimônias de caça."
+    ],
+    "influencia": "Contribuiu para a diversidade cultural e espiritual do Cáucaso.",
+    "importancia": "Essencial para a compreensão das tradições espirituais indígenas e sua relação com o ambiente.",
+    "link": "https://www.britannica.com/topic/Caucasian-religion"
+  },
+  {
+    "nome": "Religiões Tradicionais da Ásia Central",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas da Ásia Central.",
+    "origem": "Diversas culturas e etnias da Ásia Central.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de caça e sobrevivência."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões da Ásia Central.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Totens",
+      "Máscaras"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Cerimônias de caça."
+    ],
+    "influencia": "Contribuiu para a diversidade cultural e espiritual da Ásia Central.",
+    "importancia": "Essencial para a compreensão das tradições espirituais indígenas e sua relação com o ambiente.",
+    "link": "https://www.britannica.com/topic/Central-Asian-religion"
+  },
+  {
+    "nome": "Religiões Tradicionais do Norte da Ásia",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas do Norte da Ásia.",
+    "origem": "Diversas culturas e etnias do Norte da Ásia.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de caça e sobrevivência."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões do Norte da Ásia.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Totens",
+      "Máscaras"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Cerimônias de caça."
+    ],
+    "influencia": "Contribuiu para a diversidade cultural e espiritual do Norte da Ásia.",
+    "importancia": "Essencial para a compreensão das tradições espirituais indígenas e sua relação com o ambiente extremo.",
+    "link": "https://www.britannica.com/topic/Northern-Asian-religion"
+  },
+  {
+    "nome": "Religiões Tradicionais do Sul da Ásia",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas do Sul da Ásia.",
+    "origem": "Diversas culturas e etnias do Sul da Ásia.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de meditação e adoração comunitária."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões do Sul da Ásia.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Estátuas rituais",
+      "Totens"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Festivais comunitários."
+    ],
+    "influencia": "Influenciou religiões do Sul da Ásia como o Hinduísmo e o Budismo.",
+    "importancia": "Crucial para a preservação da identidade cultural e espiritual de diversas comunidades do Sul da Ásia.",
+    "link": "https://www.britannica.com/topic/Southern-Asian-religion"
+  },
+  {    "nome": "Religiões Tradicionais do Sudeste Asiático Insular",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas do Sudeste Asiático Insular.",
+    "origem": "Diversas culturas e etnias do Sudeste Asiático Insular.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de caça e sobrevivência."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões do Sudeste Asiático Insular.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Totens",
+      "Máscaras"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Cerimônias de caça."
+    ],
+    "influencia": "Contribuiu para a diversidade cultural e espiritual do Sudeste Asiático Insular.",
+    "importancia": "Essencial para a compreensão das tradições espirituais indígenas e sua relação com o ambiente.",
+    "link": "https://www.britannica.com/topic/Insular-Southeast-Asian-religion"
+  },
+  {    "nome": "Religiões Tradicionais do Pacífico Norte",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas do Pacífico Norte.",
+    "origem": "Diversas culturas e etnias do Pacífico Norte.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de caça e sobrevivência."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões do Pacífico Norte.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Totens",
+      "Máscaras"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Cerimônias de caça."
+    ],
+    "influencia": "Contribuiu para a diversidade cultural e espiritual do Pacífico Norte.",
+    "importancia": "Essencial para a compreensão das tradições espirituais indígenas e sua relação com o ambiente.",
+    "link": "https://www.britannica.com/topic/North-Pacific-religion"
+  },
+  {    "nome": "Religiões Tradicionais do Pacífico Sul",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas do Pacífico Sul.",
+    "origem": "Diversas culturas e etnias do Pacífico Sul.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de caça e sobrevivência."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões do Pacífico Sul.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Totens",
+      "Máscaras"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Cerimônias de caça."
+    ],
+    "influencia": "Contribuiu para a diversidade cultural e espiritual do Pacífico Sul.",
+    "importancia": "Essencial para a compreensão das tradições espirituais indígenas e sua relação com o ambiente.",
+    "link": "https://www.britannica.com/topic/South-Pacific-religion"
+  },
+  {    "nome": "Religiões Tradicionais do Himalaia",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas do Himalaia.",
+    "origem": "Diversas culturas e etnias do Himalaia.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de meditação e adoração comunitária."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões do Himalaia.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Estátuas rituais",
+      "Totens"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Festivais comunitários."
+    ],
+    "influencia": "Influenciou religiões do Himalaia como o Budismo Tibetano e o Bön.",
+    "importancia": "Crucial para a preservação da identidade cultural e espiritual de diversas comunidades do Himalaia.",
+    "link": "https://www.britannica.com/topic/Himalayan-religion"
+  },
+  {    "nome": "Religiões Tradicionais do Ásia Setentrional",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas do Ásia Setentrional.",
+    "origem": "Diversas culturas e etnias do Ásia Setentrional.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de caça e sobrevivência."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões do Ásia Setentrional.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Totens",
+      "Máscaras"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Cerimônias de caça."
+    ],
+    "influencia": "Contribuiu para a diversidade cultural e espiritual da Ásia Setentrional.",
+    "importancia": "Essencial para a compreensão das tradições espirituais indígenas e sua relação com o ambiente extremo.",
+    "link": "https://www.britannica.com/topic/Northern-Asian-religion"
+  },
+  {    "nome": "Religiões Tradicionais do Sul do Pacífico",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas do Sul do Pacífico.",
+    "origem": "Diversas culturas e etnias do Sul do Pacífico.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de caça e sobrevivência."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões do Sul do Pacífico.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Totens",
+      "Máscaras"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Cerimônias de caça."
+    ],
+    "influencia": "Contribuiu para a diversidade cultural e espiritual do Sul do Pacífico.",
+    "importancia": "Essencial para a compreensão das tradições espirituais indígenas e sua relação com o ambiente.",
+    "link": "https://www.britannica.com/topic/Southern-Pacific-religion"
+  },
+  {    "nome": "Religiões Tradicionais do Caribe Insular",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas do Caribe Insular.",
+    "origem": "Diversas culturas e etnias do Caribe Insular.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de celebração da pesca."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões do Caribe Insular.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Máscaras rituais",
+      "Totens"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Festivais comunitários."
+    ],
+    "influencia": "Influenciou religiões caribenhas como o Vodu e a Santeria.",
+    "importancia": "Crucial para a preservação da identidade cultural e espiritual de diversas comunidades caribenhas.",
+    "link": "https://www.britannica.com/topic/Insular-Caribbean-religion"
+  },
+  {    "nome": "Religiões Tradicionais do Mediterrâneo Oriental",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas do Mediterrâneo Oriental.",
+    "origem": "Diversas culturas e etnias do Mediterrâneo Oriental.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de adoração comunitária."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões do Mediterrâneo Oriental.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Estátuas rituais",
+      "Totens"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Festivais comunitários."
+    ],
+    "influencia": "Influenciou religiões do Mediterrâneo Oriental como o Grego Antigo e o Romano Antigo.",
+    "importancia": "Crucial para a preservação da identidade cultural e espiritual de diversas comunidades do Mediterrâneo Oriental.",
+    "link": "https://www.britannica.com/topic/Eastern-Mediterranean-religion"
+  },
+  {    "nome": "Religiões Tradicionais do Mediterrâneo Ocidental",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas do Mediterrâneo Ocidental.",
+    "origem": "Diversas culturas e etnias do Mediterrâneo Ocidental.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de adoração comunitária."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões do Mediterrâneo Ocidental.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Estátuas rituais",
+      "Totens"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Festivais comunitários."
+    ],
+    "influencia": "Influenciou religiões do Mediterrâneo Ocidental como o Minoano e o Micênico.",
+    "importancia": "Crucial para a preservação da identidade cultural e espiritual de diversas comunidades do Mediterrâneo Ocidental.",
+    "link": "https://www.britannica.com/topic/Western-Mediterranean-religion"
+  },
+  {
+    "nome": "Religiões Tradicionais do Caribe Continental",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas do Caribe Continental.",
+    "origem": "Diversas culturas e etnias do Caribe Continental.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de celebração da pesca."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões do Caribe Continental.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Máscaras rituais",
+      "Totens"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Festivais comunitários."
+    ],
+    "influencia": "Influenciou religiões caribenhas como o Vodu e a Santeria.",
+    "importancia": "Crucial para a preservação da identidade cultural e espiritual de diversas comunidades caribenhas.",
+    "link": "https://www.britannica.com/topic/Continental-Caribbean-religion"
+  },
+  {
+    "nome": "Religiões Tradicionais do Ártico",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas do Ártico.",
+    "origem": "Diversas culturas e etnias do Ártico.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de caça e sobrevivência."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões do Ártico.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Totens",
+      "Máscaras"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Cerimônias de caça."
+    ],
+    "influencia": "Contribuiu para a diversidade cultural e espiritual do Ártico.",
+    "importancia": "Essencial para a compreensão das tradições espirituais indígenas e sua relação com o ambiente extremo.",
+    "link": "https://www.britannica.com/topic/Arctic-religion"
+  },
+  {
+    "nome": "Religiões Tradicionais da Sibéria",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas da Sibéria.",
+    "origem": "Diversas culturas e etnias da Sibéria.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de caça e sobrevivência."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões da Sibéria.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Totens",
+      "Máscaras"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Cerimônias de caça."
+    ],
+    "influencia": "Contribuiu para a diversidade cultural e espiritual da Sibéria.",
+    "importancia": "Essencial para a compreensão das tradições espirituais indígenas e sua relação com o ambiente extremo.",
+    "link": "https://www.britannica.com/topic/Siberian-religion"
+  },
+  {
+    "nome": "Religiões Tradicionais da Oceania",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas da Oceania.",
+    "origem": "Diversas culturas e etnias da Oceania.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de caça e sobrevivência."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões da Oceania.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Totens",
+      "Máscaras"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Cerimônias de caça."
+    ],
+    "influencia": "Contribuiu para a diversidade cultural e espiritual da Oceania.",
+    "importancia": "Essencial para a compreensão das tradições espirituais indígenas e sua relação com o ambiente.",
+    "link": "https://www.britannica.com/topic/Oceanian-religion"
+  },
+  {
+    "nome": "Religiões Tradicionais da Melanésia",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas da Melanésia.",
+    "origem": "Diversas culturas e etnias da Melanésia.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de caça e sobrevivência."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões da Melanésia.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Totens",
+      "Máscaras"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Cerimônias de caça."
+    ],
+    "influencia": "Contribuiu para a diversidade cultural e espiritual da Melanésia.",
+    "importancia": "Essencial para a compreensão das tradições espirituais indígenas e sua relação com o ambiente.",
+    "link": "https://www.britannica.com/topic/Melanesian-religion"
+  },
+  {
+    "nome": "Religiões Tradicionais da Micronésia",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas da Micronésia.",
+    "origem": "Diversas culturas e etnias da Micronésia.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de caça e sobrevivência."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões da Micronésia.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Totens",
+      "Máscaras"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Cerimônias de caça."
+    ],
+    "influencia": "Contribuiu para a diversidade cultural e espiritual da Micronésia.",
+    "importancia": "Essencial para a compreensão das tradições espirituais indígenas e sua relação com o ambiente.",
+    "link": "https://www.britannica.com/topic/Micronesian-religion"
+  },
+  {
+    "nome": "Religiões Tradicionais da Polinésia",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas da Polinésia.",
+    "origem": "Diversas culturas e etnias da Polinésia.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de caça e sobrevivência."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões da Polinésia.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Totens",
+      "Máscaras"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Cerimônias de caça."
+    ],
+    "influencia": "Contribuiu para a diversidade cultural e espiritual da Polinésia.",
+    "importancia": "Essencial para a compreensão das tradições espirituais indígenas e sua relação com o ambiente.",
+    "link": "https://www.britannica.com/topic/Polynesian-religion"
+  },
+  {    "nome": "Religiões Tradicionais do Sudeste Asiático Continental",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas do Sudeste Asiático Continental.",
+    "origem": "Diversas culturas e etnias do Sudeste Asiático Continental.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de caça e sobrevivência."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões do Sudeste Asiático Continental.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Totens",
+      "Máscaras"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Cerimônias de caça."
+    ],
+    "influencia": "Contribuiu para a diversidade cultural e espiritual do Sudeste Asiático Continental.",
+    "importancia": "Essencial para a compreensão das tradições espirituais indígenas e sua relação com o ambiente.",
+    "link": "https://www.britannica.com/topic/Continental-Southeast-Asian-religion"
+  },
+  {
+    "nome": "Religiões Tradicionais da América Central",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas da América Central.",
+    "origem": "Diversas culturas e etnias da América Central.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de caça e sobrevivência."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões da América Central.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Totens",
+      "Máscaras"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Cerimônias de caça."
+    ],
+    "influencia": "Contribuiu para a diversidade cultural e espiritual da América Central.",
+    "importancia": "Essencial para a compreensão das tradições espirituais indígenas e sua relação com o ambiente.",
+    "link": "https://www.britannica.com/topic/Central-American-religion"
+  },
+  {
+    "nome": "Religiões Tradicionais da América do Sul Andina",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas da América do Sul Andina.",
+    "origem": "Diversas culturas e etnias da América do Sul Andina.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de caça e sobrevivência."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões da América do Sul Andina.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Totens",
+      "Máscaras"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Cerimônias de caça."
+    ],
+    "influencia": "Contribuiu para a diversidade cultural e espiritual da América do Sul Andina.",
+    "importancia": "Essencial para a compreensão das tradições espirituais indígenas e sua relação com o ambiente.",
+    "link": "https://www.britannica.com/topic/Andean-South-American-religion"
+  },
+  {
+    "nome": "Religiões Tradicionais da América do Sul Amazônica",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas da América do Sul Amazônica.",
+    "origem": "Diversas culturas e etnias da América do Sul Amazônica.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de caça e sobrevivência."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões da América do Sul Amazônica.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Totens",
+      "Máscaras"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Cerimônias de caça."
+    ],
+    "influencia": "Contribuiu para a diversidade cultural e espiritual da América do Sul Amazônica.",
+    "importancia": "Essencial para a compreensão das tradições espirituais indígenas e sua relação com o ambiente.",
+    "link": "https://www.britannica.com/topic/Amazonian-South-American-religion"
+  },
+  {
+    "nome": "Religiões Tradicionais da América do Norte",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas da América do Norte.",
+    "origem": "Diversas culturas e etnias da América do Norte.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de caça e sobrevivência."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões da América do Norte.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Totens",
+      "Máscaras"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Cerimônias de caça."
+    ],
+    "influencia": "Contribuiu para a diversidade cultural e espiritual da América do Norte.",
+    "importancia": "Essencial para a compreensão das tradições espirituais indígenas e sua relação com o ambiente.",
+    "link": "https://www.britannica.com/topic/North-American-religion"
+  },
+  {
+    "nome": "Religiões Tradicionais da África Ocidental",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas da África Ocidental.",
+    "origem": "Diversas culturas e etnias da África Ocidental.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de adoração comunitária."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões da África Ocidental.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Estátuas rituais",
+      "Totens"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Festivais comunitários."
+    ],
+    "influencia": "Influenciou religiões da África Ocidental como o Vodum e o Ifá.",
+    "importancia": "Crucial para a preservação da identidade cultural e espiritual de diversas comunidades da África Ocidental.",
+    "link": "https://www.britannica.com/topic/West-African-religion"
+  },
+  {
+    "nome": "Religiões Tradicionais da África Oriental",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas da África Oriental.",
+    "origem": "Diversas culturas e etnias da África Oriental.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de adoração comunitária."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões da África Oriental.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Estátuas rituais",
+      "Totens"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Festivais comunitários."
+    ],
+    "influencia": "Influenciou religiões da África Oriental como o Animismo e o Candomblé.",
+    "importancia": "Crucial para a preservação da identidade cultural e espiritual de diversas comunidades da África Oriental.",
+    "link": "https://www.britannica.com/topic/East-African-religion"
+  },
+  {
+    "nome": "Religiões Tradicionais da África Central",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas da África Central.",
+    "origem": "Diversas culturas e etnias da África Central.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de adoração comunitária."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões da África Central.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Estátuas rituais",
+      "Totens"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Festivais comunitários."
+    ],
+    "influencia": "Influenciou religiões da África Central como o Animismo e o Candomblé.",
+    "importancia": "Crucial para a preservação da identidade cultural e espiritual de diversas comunidades da África Central.",
+    "link": "https://www.britannica.com/topic/Central-African-religion"
+  },
+  {
+    "nome": "Religiões Tradicionais da África Meridional",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas da África Meridional.",
+    "origem": "Diversas culturas e etnias da África Meridional.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de adoração comunitária."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões da África Meridional.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Estátuas rituais",
+      "Totens"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Festivais comunitários."
+    ],
+    "influencia": "Influenciou religiões da África Meridional como o Animismo e o Candomblé.",
+    "importancia": "Crucial para a preservação da identidade cultural e espiritual de diversas comunidades da África Meridional.",
+    "link": "https://www.britannica.com/topic/Southern-African-religion"
+  },
+  {
+    "nome": "Religiões Tradicionais do Norte da África",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas do Norte da África.",
+    "origem": "Diversas culturas e etnias do Norte da África.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de adoração comunitária."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões do Norte da África.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Estátuas rituais",
+      "Totens"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Festivais comunitários."
+    ],
+    "influencia": "Influenciou religiões do Norte da África como o Egípcio Antigo e o Berbere.",
+    "importancia": "Crucial para a preservação da identidade cultural e espiritual de diversas comunidades do Norte da África.",
+    "link": "https://www.britannica.com/topic/North-African-religion"
+  },
+  {
+    "nome": "Religiões Tradicionais do Chifre da África",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas do Chifre da África.",
+    "origem": "Diversas culturas e etnias do Chifre da África.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de adoração comunitária."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões do Chifre da África.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Estátuas rituais",
+      "Totens"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Festivais comunitários."
+    ],
+    "influencia": "Influenciou religiões do Chifre da África como o Animismo e o Candomblé.",
+    "importancia": "Crucial para a preservação da identidade cultural e espiritual de diversas comunidades do Chifre da África.",
+    "link": "https://www.britannica.com/topic/Horn-of-Africa-religion"
+  },
+  {
+    "nome": "Religiões Tradicionais do Sahel Africano",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas do Sahel Africano.",
+    "origem": "Diversas culturas e etnias do Sahel Africano.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de adoração comunitária."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões do Sahel Africano.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Estátuas rituais",
+      "Totens"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Festivais comunitários."
+    ],
+    "influencia": "Influenciou religiões do Sahel Africano como o Animismo e o Candomblé.",
+    "importancia": "Crucial para a preservação da identidade cultural e espiritual de diversas comunidades do Sahel Africano.",
+    "link": "https://www.britannica.com/topic/Sahelian-African-religion"
+  },
+  {
+    "nome": "Religiões Tradicionais do Norte da Ásia",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas do Norte da Ásia.",
+    "origem": "Diversas culturas e etnias do Norte da Ásia.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de caça e sobrevivência."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões do Norte da Ásia.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Totens",
+      "Máscaras"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Cerimônias de caça."
+    ],
+    "influencia": "Contribuiu para a diversidade cultural e espiritual do Norte da Ásia.",
+    "importancia": "Essencial para a compreensão das tradições espirituais indígenas e sua relação com o ambiente extremo.",
+    "link": "https://www.britannica.com/topic/Northern-Asian-religion"
+  },
+  {
+    "nome": "Religiões Tradicionais do Sul da Ásia",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas do Sul da Ásia.",
+    "origem": "Diversas culturas e etnias do Sul da Ásia.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de meditação e adoração comunitária."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões do Sul da Ásia.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Estátuas rituais",
+      "Totens"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Festivais comunitários."
+    ],
+    "influencia": "Influenciou religiões do Sul da Ásia como o Hinduísmo e o Budismo.",
+    "importancia": "Crucial para a preservação da identidade cultural e espiritual de diversas comunidades do Sul da Ásia.",
+    "link": "https://www.britannica.com/topic/Southern-Asian-religion"
+  },
+  {
+    "nome": "Religiões Tradicionais do Sudeste Asiático Insular",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas do Sudeste Asiático Insular.",
+    "origem": "Diversas culturas e etnias do Sudeste Asiático Insular.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de caça e sobrevivência."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões do Sudeste Asiático Insular.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Totens",
+      "Máscaras"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Cerimônias de caça."
+    ],
+    "influencia": "Contribuiu para a diversidade cultural e espiritual do Sudeste Asiático Insular.",
+    "importancia": "Essencial para a compreensão das tradições espirituais indígenas e sua relação com o ambiente.",
+    "link": "https://www.britannica.com/topic/Insular-Southeast-Asian-religion"
+  },
+  {
+    "nome": "Religiões Tradicionais do Pacífico Norte",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas do Pacífico Norte.",
+    "origem": "Diversas culturas e etnias do Pacífico Norte.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de caça e sobrevivência."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões do Pacífico Norte.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Totens",
+      "Máscaras"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Cerimônias de caça."
+    ],
+    "influencia": "Contribuiu para a diversidade cultural e espiritual do Pacífico Norte.",
+    "importancia": "Essencial para a compreensão das tradições espirituais indígenas e sua relação com o ambiente.",
+    "link": "https://www.britannica.com/topic/North-Pacific-religion"
+  },
+  {
+    "nome": "Religiões Tradicionais do Pacífico Sul",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas do Pacífico Sul.",
+    "origem": "Diversas culturas e etnias do Pacífico Sul.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de caça e sobrevivência."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões do Pacífico Sul.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Totens",
+      "Máscaras"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Cerimônias de caça."
+    ],
+    "influencia": "Contribuiu para a diversidade cultural e espiritual do Pacífico Sul.",
+    "importancia": "Essencial para a compreensão das tradições espirituais indígenas e sua relação com o ambiente.",
+    "link": "https://www.britannica.com/topic/South-Pacific-religion"
+  },
+  {
+    "nome": "Religiões Tradicionais do Himalaia",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas do Himalaia.",
+    "origem": "Diversas culturas e etnias do Himalaia.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de meditação e adoração comunitária."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões do Himalaia.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Estátuas rituais",
+      "Totens"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Festivais comunitários."
+    ],
+    "influencia": "Influenciou religiões do Himalaia como o Budismo Tibetano e o Bön.",
+    "importancia": "Crucial para a preservação da identidade cultural e espiritual de diversas comunidades do Himalaia.",
+    "link": "https://www.britannica.com/topic/Himalayan-religion"
+  },{
+    "nome": "Religiões Tradicionais do Ásia Setentrional",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas do Ásia Setentrional.",
+    "origem": "Diversas culturas e etnias do Ásia Setentrional.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de caça e sobrevivência."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões do Ásia Setentrional.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Totens",
+      "Máscaras"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Cerimônias de caça."
+    ],
+    "influencia": "Contribuiu para a diversidade cultural e espiritual da Ásia Setentrional.",
+    "importancia": "Essencial para a compreensão das tradições espirituais indígenas e sua relação com o ambiente extremo.",
+    "link": "https://www.britannica.com/topic/Northern-Asian-religion"
+  },
+  {
+    "nome": "Religiões Tradicionais do Sul do Pacífico",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas do Sul do Pacífico.",
+    "origem": "Diversas culturas e etnias do Sul do Pacífico.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de caça e sobrevivência."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões do Sul do Pacífico.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Totens",
+      "Máscaras"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Cerimônias de caça."
+    ],
+    "influencia": "Contribuiu para a diversidade cultural e espiritual do Sul do Pacífico.",
+    "importancia": "Essencial para a compreensão das tradições espirituais indígenas e sua relação com o ambiente.",
+    "link": "https://www.britannica.com/topic/Southern-Pacific-religion"
+  },
+  {
+    "nome": "Religiões Tradicionais do Caribe Insular",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas do Caribe Insular.",
+    "origem": "Diversas culturas e etnias do Caribe Insular.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de celebração da pesca."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões do Caribe Insular.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Máscaras rituais",
+      "Totens"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Festivais comunitários."
+    ],
+    "influencia": "Influenciou religiões caribenhas como o Vodu e a Santeria.",
+    "importancia": "Crucial para a preservação da identidade cultural e espiritual de diversas comunidades caribenhas.",
+    "link": "https://www.britannica.com/topic/Insular-Caribbean-religion"
+  },
+  {
+    "nome": "Religiões Tradicionais do Mediterrâneo Central",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas do Mediterrâneo Central.",
+    "origem": "Diversas culturas e etnias do Mediterrâneo Central.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de adoração comunitária."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões do Mediterrâneo Central.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Estátuas rituais",
+      "Totens"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Festivais comunitários."
+    ],
+    "influencia": "Influenciou religiões do Mediterrâneo Central como o Romano Antigo e o Etrusco.",
+    "importancia": "Crucial para a preservação da identidade cultural e espiritual de diversas comunidades do Mediterrâneo Central.",
+    "link": "https://www.britannica.com/topic/Central-Mediterranean-religion"
+  },
+  {
+    "nome": "Religiões Tradicionais do Mediterrâneo Oriental",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas do Mediterrâneo Oriental.",
+    "origem": "Diversas culturas e etnias do Mediterrâneo Oriental.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de adoração comunitária."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões do Mediterrâneo Oriental.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Estátuas rituais",
+      "Totens"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Festivais comunitários."
+    ],
+    "influencia": "Influenciou religiões do Mediterrâneo Oriental como o Grego Antigo e o Fenício.",
+    "importancia": "Crucial para a preservação da identidade cultural e espiritual de diversas comunidades do Mediterrâneo Oriental.",
+    "link": "https://apaixonadosporhistoria.com.br/texto/243/religioes-orientais-no-mundo-romano#google_vignette"
+  },
+  {
+    "nome": "Religiões Tradicionais do Mediterrâneo Ocidental",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas do Mediterrâneo Ocidental.",
+    "origem": "Diversas culturas e etnias do Mediterrâneo Ocidental.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de adoração comunitária."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões do Mediterrâneo Ocidental.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Estátuas rituais",
+      "Totens"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Festivais comunitários."
+    ],
+    "influencia": "Influenciou religiões do Mediterrâneo Ocidental como o Cartaginês e o Romano Antigo.",
+    "importancia": "Crucial para a preservação da identidade cultural e espiritual de diversas comunidades do Mediterrâneo Ocidental.",
+    "link": "https://pt.wikipedia.org/wiki/Religi%C3%A3o_na_Gr%C3%A9cia_Antiga"
+  },
+  {
+    "nome": "Religiões Tradicionais do Ártico",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas do Ártico.",
+    "origem": "Diversas culturas e etnias do Ártico.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de caça e sobrevivência."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões do Ártico.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Totens",
+      "Máscaras"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Cerimônias de caça."
+    ],
+    "influencia": "Contribuiu para a diversidade cultural e espiritual do Ártico.",
+    "importancia": "Essencial para a compreensão das tradições espirituais indígenas e sua relação com o ambiente extremo.",
+    "link": "https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/arctic-religions-overview"
+  },
+  {
+    "nome": "Religiões Tradicionais da Sibéria",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas da Sibéria.",
+    "origem": "Diversas culturas e etnias da Sibéria.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de caça e sobrevivência."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões da Sibéria.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Totens",
+      "Máscaras"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Cerimônias de caça."
+    ],
+    "influencia": "Contribuiu para a diversidade cultural e espiritual da Sibéria.",
+    "importancia": "Essencial para a compreensão das tradições espirituais indígenas e sua relação com o ambiente extremo.",
+    "link": "https://maironpelomundo.com/2018/04/14/bem-vindos-a-irkutsk-siberia/"
+  },
+  {
+    "nome": "Religiões Tradicionais do Norte da Europa",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas do Norte da Europa.",
+    "origem": "Diversas culturas e etnias do Norte da Europa.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de caça e sobrevivência."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões do Norte da Europa.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Totens",
+      "Máscaras"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Cerimônias de caça."
+    ],
+    "influencia": "Contribuiu para a diversidade cultural e espiritual do Norte da Europa.",
+    "importancia": "Essencial para a compreensão das tradições espirituais indígenas e sua relação com o ambiente.",
+    "link": "https://pt.wikipedia.org/wiki/Religi%C3%A3o_n%C3%B3rdica"
+  },
+  {
+    "nome": "Religiões Tradicionais do Sul da Europa",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas do Sul da Europa.",
+    "origem": "Diversas culturas e etnias do Sul da Europa.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de caça e sobrevivência."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões do Sul da Europa.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Totens",
+      "Máscaras"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Cerimônias de caça."
+    ],
+    "influencia": "Contribuiu para a diversidade cultural e espiritual do Sul da Europa.",
+    "importancia": "Essencial para a compreensão das tradições espirituais indígenas e sua relação com o ambiente.",
+    "link": "https://pt.wikipedia.org/wiki/Religi%C3%A3o_na_Europa"
+  },
+  {
+    "nome": "Religiões Tradicionais do Leste da Europa",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas do Leste da Europa.",
+    "origem": "Diversas culturas e etnias do Leste da Europa.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de caça e sobrevivência."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões do Leste da Europa.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Totens",
+      "Máscaras"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Cerimônias de caça."
+    ],
+    "influencia": "Contribuiu para a diversidade cultural e espiritual do Leste da Europa.",
+    "importancia": "Essencial para a compreensão das tradições espirituais indígenas e sua relação com o ambiente.",
+    "link": "https://pt.wikipedia.org/wiki/Religi%C3%A3o_na_Europa"
+  },
+  {
+    "nome": "Religiões Tradicionais da Polinésia",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas da Polinésia.",
+    "origem": "Diversas culturas e etnias da Polinésia.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de caça e sobrevivência."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões da Polinésia.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Totens",
+      "Máscaras"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Cerimônias de caça."
+    ],
+    "influencia": "Contribuiu para a diversidade cultural e espiritual da Polinésia.",
+    "importancia": "Essencial para a compreensão das tradições espirituais indígenas e sua relação com o ambiente.",
+    "link": "https://www.britannica.com/place/Polynesia/Religion"
+  },
+  {
+    "nome": "Religiões Tradicionais da Micronésia",
+    "descricao": "Conjunto de crenças e práticas espirituais indígenas da Micronésia.",
+    "origem": "Diversas culturas e etnias da Micronésia.",
+    "exemplos": [
+      "Crença em espíritos da natureza e ancestrais.",
+      "Rituais de caça e sobrevivência."
+    ],
+    "periodo": "Desde a antiguidade até os dias atuais em várias regiões da Micronésia.",
+    "deuses": [
+      "Ancestrais",
+      "Espíritos da natureza"
+    ],
+    "simbolos": [
+      "Totens",
+      "Máscaras"
+    ],
+    "praticas": [
+      "Rituais xamânicos.",
+      "Cerimônias de caça."
+    ],
+    "influencia": "Contribuiu para a diversidade cultural e espiritual da Micronésia.",
+    "importancia": "Essencial para a compreensão das tradições espirituais indígenas e sua relação com o ambiente.",
+    "link": "https://en.wikipedia.org/wiki/Religion_in_the_Federated_States_of_Micronesia"
+  }
+]
